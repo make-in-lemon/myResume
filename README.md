@@ -36,8 +36,11 @@ B2B2C商城<br>
 2.负责商城后台模块开发；
 
 3.负责移动端JSON数据接口开发(Postman)。<br>
-http://www.cnblogs.com/lemonphp/diary/2016/05/10/5478384.html
-http://www.cnblogs.com/lemonphp/diary/2016/05/10/5478371.html部分效果图
+部分效果:
+http://www.cnblogs.com/lemonphp/p/5454874.html(打印商品二维码功能)
+http://www.cnblogs.com/lemonphp/p/5478414.html (首页效果页面)
+http://www.cnblogs.com/lemonphp/p/5462587.html (商品导出到Excel)
+http://www.cnblogs.com/lemonphp/category/744022.html
 陈思良的作品集
 项目简介：<br>
 www.appddw.net 企业官网<br>
