@@ -14,11 +14,38 @@
 2.负责商城后台模块开发；<br>
 3.负责移动端JSON数据接口开发(Postman)。<br>
 4.企业官网(负责版面设计和php网页制作)<br>
+
 珠海睿讯科技有限公司<br>
 工作时间：2014年03月-2015年05月 [1年2个月]<br>
 在职职位：网页制作与编程<br>
 工作职责： 网络营销，网页制作，电子邮件的制作与排版，数据营运，php的编程,网络营销eDM制作<br>
+
 珠海城市职业技术学院<br>
 工作时间：2011年12月-2014年12月<br>
 在职职位：网络实训室助理<br>
 工作职责： 计算机维护与管理，考试软件安装，文案整理等<br>
+#项目经验
+B2B2C商城<br>
+项目简介： <br>
+基于B2B2C商城的(shopnc) 二次开发
+基于iwebshop商城的二次开发
+主要业务:O2O商城,互联网电商<br>
+职责和业绩： <br>
+1.负责B2B2C商城的开发；
+
+2.负责商城后台模块开发；
+
+3.负责移动端JSON数据接口开发(Postman)。<br>
+
+陈思良的作品集
+项目简介：<br>
+www.appddw.net 企业官网<br>
+https://github.com/make-in-lemon/php1.0.git 个人作品<br>
+https://github.com/make-in-lemon/xiaohuangren.git(模仿春菜js效果)<br>
+http://mjay.applinzi.com/ 动态页面 （php语言）（5月18-五月20号）<br>
+http://lemonphpcms.applinzi.com/ 简单企业cms官网<br>
+http://1.chensiliang.sinaapp.com/tx1/index.php   (俱乐部通讯录)<br>
+http://1.ccav39.sinaapp.com  （静态纯手写）<br>
+以上项目在sae平台上,有可能存在项目关闭状态.<br>
+职责和业绩： 影视/媒体/艺术/文化传播，广告，家居/室内设计/装潢，互联网/电子商务
+
