@@ -3,11 +3,21 @@
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:php程序员、网页设计/制作
 # 自我介绍:<br>
- PHP方面<br>目前在电商系统（shopnc ecshop）进行二次开发,对电商开发系统比较熟悉<br>了解PHP主流框架(laravel,thinkphp),能独立完成企业网站,<br>掌握[php Ajax]异步请求和远程调控,jQuery.validator 验证规则<br>使用svn或者git进行合作协同开发<br>移动端接口方面<br>移动端JSON数据接口开发(Postman)<br>熟悉掌握一定div+css html  js jquery的前端知识<br>
- (Bootstrap, Foundation html5up web框架)
+ PHP方面<br>目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉<br>了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,<br>掌握[php Ajax]异步请求和远程调控,jQuery.validator 验证规则<br>使用svn或者git进行合作协同开发<br>移动端接口方面<br>移动端JSON数据接口开发(Postman)<br>熟悉掌握一定div+css html  js jquery的前端知识<br>
+ (Bootstrap,amazeui html5up web框架)
 #工作经验 
+珠海泰锋有限公司(总部)<br>
+工作时间：2016年06月-至今 <br>
+在职职位：开发工程师<br>
+工作职责： <br>
+1.负责商城的开发；<br>
+2.手机app接口，数据，页面<br>
+3.微信支付，支付宝支付，微信接口<br>
+4.手机app原型<br>
+
+
 珠海东东网络有限公司<br>
-工作时间：2015年05月-至今 <br>
+工作时间：2015年05月-2016-6月 <br>
 在职职位：php程序员<br>
 工作职责： <br>
 1.负责B2B2C商城的开发；<br>
@@ -22,6 +32,8 @@
 
 
 #项目经验
+php+js+html（手机app）
+微信接口，微信小程序
 B2B2C商城<br>
 项目简介： <br>
 基于B2B2C商城的(shopnc) 二次开发
