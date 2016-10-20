@@ -44,7 +44,8 @@ B2B2C商城<br>
 
 2.负责商城后台模块开发；
 
-3.负责移动端JSON数据接口开发(Postman)。<br>
+3.负责移动端JSON数据接口开发。<br>
+<!--
 部分效果:<br>
 http://www.cnblogs.com/lemonphp/p/5454874.html(打印商品二维码功能)<br>
 http://www.cnblogs.com/lemonphp/p/5478414.html (首页效果页面)<br>
@@ -62,4 +63,4 @@ http://1.chensiliang.sinaapp.com/tx1/index.php   (俱乐部通讯录)<br>
 http://1.ccav39.sinaapp.com  （静态纯手写）<br>
 以上项目在sae平台上,有可能存在项目关闭状态.<br>
 职责和业绩： 影视/媒体/艺术/文化传播，广告，家居/室内设计/装潢，互联网/电子商务
-
+-->
