@@ -3,7 +3,7 @@
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:php程序员、网页设计/制作
 # 自我介绍:<br>
- PHP方面<br>目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉<br>了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,<br>掌握[php Ajax]异步请求和远程调控,jQuery.validator 验证规则<br>使用svn或者git进行合作协同开发<br>移动端接口方面<br>移动端JSON数据接口开发(Postman)<br>熟悉掌握一定div+css html  js jquery的前端知识<br>
+ PHP方面<br>目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉<br>了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,<br>掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则<br>使用svn或者git进行合作协同开发<br>移动端接口方面<br>移动端JSON数据接口开发(Postman)<br>熟悉掌握一定div+css html  js jquery的前端知识<br>
  (Bootstrap,amazeui html5up web框架)
 #工作经验 
 珠海泰锋有限公司(总部)<br>
