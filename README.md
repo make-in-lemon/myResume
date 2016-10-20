@@ -45,6 +45,8 @@ B2B2C商城<br>
 2.负责商城后台模块开发；
 
 3.负责移动端JSON数据接口开发。<br>
+
+4.gunner.site
 <!--
 部分效果:<br>
 http://www.cnblogs.com/lemonphp/p/5454874.html(打印商品二维码功能)<br>
