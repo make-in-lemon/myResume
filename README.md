@@ -47,21 +47,24 @@ PHP方面
 
 
 #项目经验
-php+js+html（手机app）
-微信接口，微信小程序
+#项目经验
+php+js+html（手机app）<br />
+微信小程序<br />
+泰锋售后app 泰锋商城app<br />
 B2B2C商城<br>
 项目简介： <br>
-基于B2B2C商城的(shopnc) 二次开发
-基于iwebshop商城的二次开发
+基于B2B2C商城的(shopnc) 二次开发<br />
+基于iwebshop商城的二次开发<br />
+微信，支付宝，支付接口调用
 主要业务:O2O商城,互联网电商<br>
 职责和业绩： <br>
-1.负责B2B2C商城的开发；
+1.负责B2B2C商城的开发；<br />
 
-2.负责商城后台模块开发；
+2.负责商城后台模块开发；<br />
 
 3.负责移动端JSON数据接口开发。<br>
 
-4.gunner.site
+4.泰锋售后app 泰锋商城app（已上架）
 <!--
 部分效果:<br>
 http://www.cnblogs.com/lemonphp/p/5454874.html(打印商品二维码功能)<br>
