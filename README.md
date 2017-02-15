@@ -47,7 +47,6 @@ PHP方面
 
 
 #项目经验
-#项目经验
 php+js+html（手机app）<br />
 微信小程序<br />
 泰锋售后app 泰锋商城app<br />
