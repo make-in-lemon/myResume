@@ -4,8 +4,20 @@
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:php程序员、网页设计/制作
 # 自我介绍:<br>
- PHP方面<br>目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉<br>了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,<br>掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则<br>使用svn或者git进行合作协同开发<br>移动端接口方面<br>移动端JSON数据接口开发(Postman)<br>熟悉掌握一定div+css html  js jquery的前端知识<br>
- (Bootstrap,amazeui html5up web框架)
+PHP方面
+<br />目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉
+<br />了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,
+<br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
+<br />并实现商城常用的、微信支付功能、接口开发等开发
+<br />使用svn或者git进行合作协同开发
+<br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu平时开发环境）
+<br />APP软件开发方面（重点）
+<br />Hyrid混合式移动App开发（安卓和ios）
+<br />HTML5开发跨平台App
+<br />HBuilder(工具)+HTML5+php(提供api)=APP应用
+<br />熟悉掌握div+css html js jquery 的前端知识和handlebars.js前端js框架等应用JS SDK类库
+<br />(Bootstrap,amazeui html5up mui等web前端框架)
+<br />node.js方面（不能更新中）
 #工作经验 
 珠海泰锋有限公司(总部)<br>
 工作时间：2016年06月-至今 <br>
@@ -14,7 +26,9 @@
 1.负责商城的开发；<br>
 2.手机app接口，数据，页面<br>
 3.微信支付，支付宝支付，微信接口<br>
-4.手机app原型<br>
+4.公司类业务开发，商城维护。<br>
+主要项目：<br>
+软件：泰锋售后app 泰锋商城app<br>
 
 
 珠海东东网络有限公司<br>
