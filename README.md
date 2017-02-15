@@ -10,14 +10,14 @@ PHP方面
 <br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
 <br />并实现商城常用的、微信支付功能、接口开发等开发
 <br />使用svn或者git进行合作协同开发
-<br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu平时开发环境）
-<br />APP软件开发方面（重点）
+<br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu平时开发环境）<br />
+<br /><strong>APP软件开发方面（重点）</strong>
 <br />Hyrid混合式移动App开发（安卓和ios）
 <br />HTML5开发跨平台App
 <br />HBuilder(工具)+HTML5+php(提供api)=APP应用
 <br />熟悉掌握div+css html js jquery 的前端知识和handlebars.js前端js框架等应用JS SDK类库
 <br />(Bootstrap,amazeui html5up mui等web前端框架)
-<br />node.js方面（不能更新中）
+<br />node.js方面（不断更新中）<br />
 #工作经验 
 珠海泰锋有限公司(总部)<br>
 工作时间：2016年06月-至今 <br>
