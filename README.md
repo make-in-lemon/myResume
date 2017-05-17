@@ -1,17 +1,21 @@
 <div align="center" ><h1 alig>个人简历</h1></div>
-陈思良 (男,24岁) 联系方式:2294262671@qq.com
+陈思良 (男,25岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:php程序员、网页设计/制作
 # 自我介绍:<br>
 PHP方面
-<br />目前在电商系统（shopnc ecshop，ecos）进行二次开发,对电商开发系统比较熟悉
-<br />了解PHP主流框架(laravel,smarty,thinkphp),能独立完成企业网站,
+<br />熟悉PHP主流框架(laravel,smarty,thinkphp),
+<br />了解目前在电商系统（shopnc ecshop，ecos,微擎）开发模式.
+<br />掌握PHP 数据对象 (PDO) 扩展 (PDO 防止SQL注入 )
+<br />PHP 使用 Redis缓存 Cache, session, queue
+<br/>前端MVVM框架：Vue.JS 2.x
 <br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
 <br />并实现商城常用的、微信支付功能、接口开发等开发
 <br />使用svn或者git进行合作协同开发
-<br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu平时开发环境）<br />
-<br /><strong>APP软件开发方面（重点）</strong>
+<br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br />
+<br /><strong> 手机APP和微信公众平台开发方面（重点）</strong>
+<br />微信jsdk 微信接口等公众平台开发
 <br />Hyrid混合式移动App开发（安卓和ios）
 <br />HTML5开发跨平台App
 <br />HBuilder(工具)+HTML5+php(提供api)=APP应用
