@@ -14,8 +14,8 @@ PHP方面
 <br />并实现商城常用的、微信支付功能、汇聚支付接口,支付宝支付,等api对接
 <br />使用svn或者git进行合作协同开发
 <br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br />
-<br /><strong> 手机APP和微信公众平台开发方面（重点）</strong>
-<br /><strong> 跨境电商系统（重点）</strong>
+<br /> 手机APP和微信公众平台开发方面
+<br /><strong> 跨境电商系统 </strong>
 <br />微信jsdk 微信接口等公众平台开发
 <br />Hyrid混合式移动App开发（安卓和ios）
 <br />HTML5开发跨平台App
@@ -24,7 +24,7 @@ PHP方面
 <br />(Bootstrap,amazeui html5up mui等web前端框架)
 <br />node.js方面（不断更新中）<br />
 #工作经验 <br>
-珠海天鹰供应链服务有限公司(跨境电商)<br>
+ <strong>珠海天鹰供应链服务有限公司(跨境电商)</strong><br>
 工作时间：2017年06月-至今 <br>
 在职职位：IT工程师<br>
 工作职责： <br>
