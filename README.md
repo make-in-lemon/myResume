@@ -2,7 +2,7 @@
 陈思良 (男,26岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
-<br>求职意向:php程序员、网页设计/制作
+<br>求职意向:<strong>php 程序员</strong>
 # 自我介绍:<br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
@@ -24,7 +24,7 @@ PHP方面
 <br />(Bootstrap,amazeui html5up mui等web前端框架)
 <br />node.js方面（不断更新中）<br />
 #工作经验 <br>
- <strong>珠海天鹰供应链服务有限公司(跨境电商)</strong><br>
+ 珠海天鹰供应链服务有限公司(跨境电商)<br>
 工作时间：2017年06月-至今 <br>
 在职职位：IT工程师<br>
 工作职责： <br>
