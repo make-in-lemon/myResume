@@ -1,17 +1,17 @@
 <div align="center" ><h1 alig>个人简历</h1></div>
-陈思良 (男,25岁) 联系方式:2294262671@qq.com
+陈思良 (男,26岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:php程序员、网页设计/制作
 # 自我介绍:<br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
-<br />了解目前在电商系统（shopnc ecshop，ecos,微擎）开发模式.
+<br />了解目前在电商系统（shopnc ecshop，ecos,商城人人）开发模式.
 <br />掌握PHP 数据对象 (PDO) 扩展 (PDO 防止SQL注入 )
 <br />PHP 使用 Redis缓存 Cache, session, queue
-<br/>前端MVVM框架：Vue.JS 2.x
+<br/>前端MVVM框架：Vue.JS 2.x angularjs
 <br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
-<br />并实现商城常用的、微信支付功能、接口开发等开发
+<br />并实现商城常用的、微信支付功能、汇聚支付接口,支付宝支付,等api对接
 <br />使用svn或者git进行合作协同开发
 <br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br />
 <br /><strong> 手机APP和微信公众平台开发方面（重点）</strong>
@@ -23,6 +23,20 @@ PHP方面
 <br />(Bootstrap,amazeui html5up mui等web前端框架)
 <br />node.js方面（不断更新中）<br />
 #工作经验 
+珠海天鹰供应链服务有限公司(跨境电商)<br>
+工作时间：2017年06月-至今 <br>
+在职职位：IT工程师<br>
+工作职责： <br>
+1.快递物流PDA app 的开发；<br>
+2.跨境电商的商城开发<br>
+3.微信支付，支付宝支付，微信公众平台<br>
+4.商品税率<br>
+5.国检海关报文生成,<br>
+6.项目统筹<br>
+7.多商家系统集成<br>
+主要项目：<br>
+软件：自动派单系统, 跨境电商平台开发pc+wap(独立完成),<br>
+
 珠海泰锋有限公司(总部)<br>
 工作时间：2016年06月-至今 <br>
 在职职位：开发工程师<br>
