@@ -6,8 +6,10 @@
 # 自我介绍:<br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
-<br />了解目前在电商系统（shopnc ecshop，ecos,商城人人）开发模式.
-<br />掌握PHP 数据对象 (PDO) 扩展 (PDO 防止SQL注入 )
+<br />电商系统（shopnc ecshop，ecos,商城人人）开发模式.
+<br />PHP 数据对象 (PDO) 扩展 (PDO 防止SQL注入 )
+七牛 oss 对象资源存储 <br>
+php gzip 静态压缩<br>
 <br />PHP 使用 Redis缓存 Cache, session, queue
 <br/>前端MVVM框架：Vue.JS 2.x angularjs
 <br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
@@ -17,14 +19,14 @@ PHP方面
 <br /> 手机APP和微信公众平台开发方面
 <br /><strong> 跨境电商系统 </strong>
 <br />微信jsdk 微信接口等公众平台开发
+<br />微信支付报关系统(跨境电商)<br>
 <br />Hyrid混合式移动App开发（安卓和ios）
 <br />HTML5开发跨平台App
 <br />HBuilder(工具)+HTML5+php(提供api)=APP应用
 <br />熟悉掌握div+css html js jquery 的前端知识和handlebars.js前端js框架等应用JS SDK类库
 <br />(Bootstrap,amazeui html5up mui等web前端框架)
 <br />node.js方面（不断更新中）<br />
-七牛 oss 对象资源存储 <br>
-php gzip 静态压缩<br>
+
 #工作经验 <br>
  珠海天鹰供应链服务有限公司(跨境电商)<br>
 工作时间：2017年06月-至今 <br>
@@ -46,6 +48,7 @@ php gzip 静态压缩<br>
 php gzip 静态资源压缩<br>
 redis 高速缓存<br>
 主要项目,
+微信支付报关系统<br>
 邮轮海淘 -微信小程序<br>
 
 珠海泰锋有限公司(总部)<br>
