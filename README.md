@@ -1,5 +1,5 @@
 <div align="center" ><h1 alig>个人简历</h1></div>
-陈思良 (男,26岁) 联系方式:2294262671@qq.com
+陈思良 (男,28岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:<strong>php 程序员</strong>
