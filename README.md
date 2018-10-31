@@ -20,6 +20,8 @@ php gzip 静态压缩<br>
 <br /><strong> 跨境电商系统 </strong>
 <br />微信jsdk 微信接口等公众平台开发
 <br />微信支付报关系统(跨境电商)<br>
+<br />微信小程序扫一扫加入购物车<br>
+<br />微信公众号消息提醒<br>
 <br />Hyrid混合式移动App开发（安卓和ios）
 <br />HTML5开发跨平台App
 <br />HBuilder(工具)+HTML5+php(提供api)=APP应用
@@ -50,6 +52,7 @@ php gzip 静态资源压缩<br>
 redis 高速缓存<br>
 主要项目,
 微信支付报关系统<br>
+微信在线客服<br>
 邮轮海淘 -微信小程序<br>
 邮轮海淘实体店-微信小程序<br>
 珠海泰锋有限公司(总部)<br>
