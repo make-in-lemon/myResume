@@ -6,7 +6,7 @@
 # 自我介绍:<br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
-<br />电商系统（shopnc ecshop，ecos,商城人人）开发模式.
+<br />电商系统（shopnc ecshop，ecos,商城人人,微擎人人店）开发模式.
 <br />PHP 数据对象 (PDO) 扩展 (PDO 防止SQL注入 )
 七牛 oss 对象资源存储 <br>
 php gzip 静态压缩<br>
