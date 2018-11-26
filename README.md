@@ -50,6 +50,8 @@ php gzip 静态压缩<br>
 七牛 oss 对象资源存储 <br>
 php gzip 静态资源压缩<br>
 redis 高速缓存<br>
+<br>跨境电子商务零售进口统一版信息化系统原始数据实时获取方案
+
 主要项目,
 微信支付报关系统<br>
 微信在线客服<br>
@@ -109,6 +111,7 @@ http://www.cnblogs.com/lemonphp/category/744022.html<br>
 
 陈思良的作品集
 项目简介：<br>
+邮轮海淘跨境电商系统<br>
 www.appddw.net 企业官网<br>
 https://github.com/make-in-lemon/php1.0.git 个人作品<br>
 https://github.com/make-in-lemon/xiaohuangren.git(模仿春菜js效果)<br>
@@ -116,6 +119,6 @@ http://mjay.applinzi.com/ 动态页面 （php语言）（5月18-五月20号）<b
 http://lemonphpcms.applinzi.com/ 简单企业cms官网<br>
 http://1.chensiliang.sinaapp.com/tx1/index.php   (俱乐部通讯录)<br>
 http://1.ccav39.sinaapp.com  （静态纯手写）<br>
-以上项目在sae平台上,有可能存在项目关闭状态.<br>
+ 项目在sae平台上,有可能存在项目关闭状态.<br>
 职责和业绩： 影视/媒体/艺术/文化传播，广告，家居/室内设计/装潢，互联网/电子商务
 -->
