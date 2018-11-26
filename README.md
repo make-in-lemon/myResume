@@ -2,7 +2,7 @@
 陈思良 (男,28岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
-<br>求职意向:<strong>php | 网站 |小程序 | web |开发工程师</strong>
+<br>求职意向:<strong>php | 网站|小程序 | web |开发工程师|项目管理|跨境电商|</strong>
 # 自我介绍:<br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
