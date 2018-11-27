@@ -13,7 +13,7 @@ php gzip 静态压缩<br>
 <br />PHP 使用 Redis缓存 Cache, session, queue
 <br/>前端MVVM框架：Vue.JS 2.x angularjs
 <br />掌握[php Ajax]异步请求和远程调控,xdebug【php】调试，jQuery.validator 验证规则
-<br />并实现商城常用的、微信支付功能、汇聚支付接口,支付宝支付,等api对接
+<br />并实现商城常用的、微信支付功能,微信公众平台接口、汇聚支付接口,支付宝支付,等api对接
 <br />使用svn或者git进行合作协同开发
 <br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br /><br />
 
