@@ -17,7 +17,7 @@ php gzip 静态压缩<br>
 <br />使用svn或者git进行合作协同开发
 <br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br /><br />
 
-<strong>数据库方面><strong><br />
+<strong>数据库方面></strong><br />
 PDO扩展<br/>
 sql语句的优化<br/>
 消息队列异步处理数据<br/>
