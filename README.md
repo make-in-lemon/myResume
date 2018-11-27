@@ -16,6 +16,14 @@ php gzip 静态压缩<br>
 <br />并实现商城常用的、微信支付功能、汇聚支付接口,支付宝支付,等api对接
 <br />使用svn或者git进行合作协同开发
 <br />linux安装，熟练编译php和Nginx等Lnmp和Lamp环境搭建 （ubuntu开发环境）<br />
+
+数据库方面<br />
+PDO扩展<br/>
+sql语句的优化<br/>
+消息队列异步处理数据<br/>
+sql注入与防注入<br/>
+
+
 <br /> 手机APP和微信公众平台开发方面
 <br /><strong> 跨境电商系统 </strong>
 <br />微信jsdk 微信接口等公众平台开发
