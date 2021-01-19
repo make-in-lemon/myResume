@@ -4,6 +4,8 @@
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
 <br>求职意向:<strong>php | 网站|小程序 | web |pyhon|人工智能|开发工程师|项目管理|跨境电商|</strong>
 # 自我介绍:<br><br>
+python开发<br/>
+ubuntu+nginx+uwsgi开发模式<br/
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
 <br />电商系统（shopnc ecshop，ecos,商城人人,微擎人人店）开发模式.
@@ -22,8 +24,7 @@ PDO扩展<br/>
 sql语句的优化<br/>
 消息队列异步处理数据<br/>
 sql注入与防注入<br/>
-python开发<br/>
-ubuntu+nginx+uwsgi开发模式
+
 
 <br /> 手机APP和微信公众平台开发方面
 <br /><strong> 跨境电商系统 </strong>
