@@ -2,7 +2,7 @@
 陈思良 (男,28岁) 联系方式:2294262671@qq.com
 学历：本科
 现居住在珠海 个人博客:http://www.cnblogs.com/lemonphp/
-<br>求职意向:<strong>php | 网站|小程序 | web |开发工程师|项目管理|跨境电商|</strong>
+<br>求职意向:<strong>php | 网站|小程序 | web |pyhon|人工智能|开发工程师|项目管理|跨境电商|</strong>
 # 自我介绍:<br><br>
 PHP方面
 <br />熟悉PHP主流框架(laravel,smarty,thinkphp),
@@ -22,7 +22,8 @@ PDO扩展<br/>
 sql语句的优化<br/>
 消息队列异步处理数据<br/>
 sql注入与防注入<br/>
-
+python开发<br/>
+ubuntu+nginx+uwsgi开发模式
 
 <br /> 手机APP和微信公众平台开发方面
 <br /><strong> 跨境电商系统 </strong>
@@ -59,12 +60,13 @@ sql注入与防注入<br/>
 php gzip 静态资源压缩<br>
 redis 高速缓存<br>
 <br>跨境电子商务零售进口统一版信息化系统原始数据实时获取方案
-
+<br>python
 主要项目,
 微信支付报关系统<br>
 微信在线客服<br>
 邮轮海淘 -微信小程序<br>
 邮轮海淘实体店-微信小程序<br>
+电商直播<br>
 珠海泰锋有限公司(总部)<br>
 工作时间：2016年06月-至今 <br>
 在职职位：开发工程师<br>
@@ -73,8 +75,13 @@ redis 高速缓存<br>
 2.手机app接口，数据，页面<br>
 3.微信支付，支付宝支付，微信接口<br>
 4.公司类业务开发，商城维护。<br>
+拼多多京东等电商对接<br>
+快递管家<br>
 主要项目：<br>
 软件：泰锋售后app 泰锋商城app<br>
+2019跨境电商ERP系统
+快递物流端app
+python-django,
 
 
 珠海东东网络有限公司<br>
@@ -85,8 +92,8 @@ redis 高速缓存<br>
 2.负责商城后台模块开发；<br>
 3.负责移动端JSON数据接口开发(Postman)。<br>
 4.企业官网(负责版面设计和php网页制作)<br>
-
-珠海睿讯科技有限公司<br>
+5.跨境电商ERP系统(独立开发)<br>
+珠海睿讯科技有限公司<br><br>
 工作时间：2014年03月-2015年05月 [1年2个月]<br>
 在职职位：网页制作与编程<br>
 工作职责： 网络营销，网页制作，电子邮件的制作与排版，数据营运，php的编程,网络营销eDM制作<br>
@@ -119,7 +126,7 @@ http://www.cnblogs.com/lemonphp/category/744022.html<br>
 
 陈思良的作品集
 项目简介：<br>
-邮轮海淘跨境电商系统<br>
+邮轮海淘公众号跨境电商系统<br>
 www.appddw.net 企业官网<br>
 https://github.com/make-in-lemon/php1.0.git 个人作品<br>
 https://github.com/make-in-lemon/xiaohuangren.git(模仿春菜js效果)<br>
